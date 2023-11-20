@@ -1,8 +1,13 @@
 ### cursos
 >- https://capacitateparaelempleo.org/cursos/view/100075
 
+### comandos
+>- npm i -g create-react-app
+>- create-react-app proyecto
+>- npm i bootstrap@4.1.1
+
 ###
->- nivel 2 lección 1 Creación de componentes
+>- nivel 2 lección 3 Visualizar datos con componentes
 
 # Getting Started with Create React App
 
